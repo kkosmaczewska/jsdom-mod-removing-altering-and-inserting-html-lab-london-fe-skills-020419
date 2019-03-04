@@ -4,5 +4,5 @@ main.remove()
 
 /* Create your new element here and assign it to newHeader */
 var element = document.createElement('H1 id="victory"')
-document.h1.appendChild(element)
+document.body.appendChild(element)
 const newHeader = "Kasia is the champion!";
