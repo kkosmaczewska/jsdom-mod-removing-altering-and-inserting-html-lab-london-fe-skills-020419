@@ -5,4 +5,4 @@ main.remove()
 /* Create your new element here and assign it to newHeader */
 var element = document.createElement('h1')
 document.body.appendChild(H1)
-const newHeader = H1;
+const newHeader = document.createElement('h1');
